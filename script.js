@@ -59,10 +59,10 @@ hassan:{
     marks: 73
   },
   {
-    name: "Hina",
+    name: "nida",
     age: 17,
-    gender: "Female",
-    marks: 90},
+    gender: "male",
+    marks: 100},
 ],
 }
 }
